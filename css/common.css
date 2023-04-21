@@ -78,6 +78,13 @@ main {
 	padding: 24px 0;
 }
 
+/* 图片比例 */
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 /* 设置链接的文字颜色 */
 main a { color: #2c9795; }
 main a:link,
